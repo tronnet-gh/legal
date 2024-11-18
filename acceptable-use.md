@@ -15,7 +15,7 @@ The Policy does not intend to restrict any activites which only affects the User
 
 ## Enforcement
 
-tronnet reserves the right to terminate access to any resource or content for any User who violates this Policy. tronnet reserves the right to delete or destroy any data which is associated with Policy violations. Enforcement of this Policy is at the sole discretion of tronnet.
+tronnet reserves the right to terminate access to any resource or content for any User who violates this Policy. tronnet reserves the right to delete or destroy any data associated with Policy violations. Enforcement of this Policy is at the sole discretion of tronnet.
 
 ## Last Updated
-2023 April 4
+2024 Nov 18

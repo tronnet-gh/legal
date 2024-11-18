@@ -1,6 +1,6 @@
 # Privacy Notice
 
-This tronnet Privacy Notice describes how we collect and process your personal information in relation to tronnet Services.
+This tronnet Privacy Notice describes how we collect and process your personal information about tronnet Services.
 
 ## Information We Collect
 
@@ -25,30 +25,33 @@ Information is collected automatically when Users interact with tronnet Services
 - **IP addresses**, and **usernames** when Users use the tronnet VPN;
 - **usernames**, and **proxmoxVE tasks** when Users use the proxmoxVE web interface or the tronnet ProxmoxAAS Client;
 - **IP addresses**, **usernames**, sent and recieved emails when Users use the tronnet Webmail
-	- sent and recieved email information includes **from and to addresses**, **subject**, **message size**, and **header metadata**;
+ - sent and recieved email information includes **from and to addresses**, **subject**, **message size**, and **header metadata**;
 
 ## How Information Is Used
 
 Information collected is used for the following purposes:
-- **Provide Services requested by Users** - Information is used to create accounts for Users, communicate with Users about their accounts and Services, and to bill for the Services used;
+- **Provide Services requested by Users** - Information is used to create accounts for Users, communicate with Users about their accounts and Services, and bill for the Services used;
 - **Assist in technical problems** - Information is used to assist Users when a technical problem occurs.
 
-## How Inforamtion is Stored and Secured
+## How Information is Stored and Secured
 
 All User information is stored on site at the tronnet cluster. We maintain physical, electronic, and procedural safeguards in connection with the storage of personal information.
 
 ## Information Disclosure
 
-tronnet will never disclose any information to any third-party except the appropriate authorities in order to:
+tronnet will never disclose any information to any third party except the appropriate authorities to:
 - comply with applicable law, regulation, legal process, or enforceable governmental request;
 - enforce any applicable agreements including, but not limited to, the Acceptable Use Policy,
 
 ## Retention & Deletion
 
-tronnet will fully delete any information no more than 5 buisness days after the closure of a User's account. tronnet will also delete information in accordance with any applicable laws. 
+tronnet will fully delete any information no more than 5 business days after the closure of a User's account. tronnet will also delete information in accordance with applicable laws. 
 
 ## Additional Notices
 
 ### CCPA
 
 Refer to the [CCPA Notice](ccpa.md).
+
+# Last Updated
+2024 Nov 18
